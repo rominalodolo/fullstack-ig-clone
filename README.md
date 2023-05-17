@@ -74,7 +74,7 @@ Reference code: [Gitbub Rep](https://github.com/John-Weeks-Dev/instagram-clone)
 
 Looking at the Laravel Docs: https://laravel.com/docs/10.x/starter-kits
 
-```composer create-project laravel/laravel fullstack-ig-clone`
+`composer create-project laravel/laravel fullstack-ig-clone`
 
 `cd fullstack-ig-clone`
 
@@ -84,5 +84,5 @@ Looking at the Laravel Docs: https://laravel.com/docs/10.x/starter-kits
 
 `npm i`
 
-npm run dev```
+`npm run dev`
 
