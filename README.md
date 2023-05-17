@@ -70,11 +70,19 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 I followed along with this tutorial: [Build a Full Stack Instagram Clone Vue JS, Tailwind CSS, Javascript, Laravel, Inertia JS, PHP](https://youtu.be/MjkamZQJY_8) by John Weeks. 
 
+Reference code: [Gitbub Rep](https://github.com/John-Weeks-Dev/instagram-clone)
+
 Looking at the Laravel Docs: https://laravel.com/docs/10.x/starter-kits
 
-`composer create-project laravel/laravel fullstack-ig-clone`
+```composer create-project laravel/laravel fullstack-ig-clone`
+
 `cd fullstack-ig-clone`
+
 `composer require laravel/breeze --dev`
+
 `php artisan breeze:install vue --ssr`
+
 `npm i`
-`npm run dev`
+
+npm run dev```
+
