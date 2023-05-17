@@ -64,3 +64,17 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+# How to build your project 
+
+I followed along with this tutorial: [Build a Full Stack Instagram Clone Vue JS, Tailwind CSS, Javascript, Laravel, Inertia JS, PHP](https://youtu.be/MjkamZQJY_8) by John Weeks. 
+
+Looking at the Laravel Docs: https://laravel.com/docs/10.x/starter-kits
+
+`composer create-project laravel/laravel fullstack-ig-clone`
+`cd fullstack-ig-clone`
+`composer require laravel/breeze --dev`
+`php artisan breeze:install vue --ssr`
+`npm i`
+`npm run dev`
