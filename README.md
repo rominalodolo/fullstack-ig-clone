@@ -1,3 +1,5 @@
+# My First Offical Laravel Project
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -68,21 +70,21 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 # How to build your project 
 
-I followed along with this tutorial: [Build a Full Stack Instagram Clone Vue JS, Tailwind CSS, Javascript, Laravel, Inertia JS, PHP](https://youtu.be/MjkamZQJY_8) by John Weeks. 
+I followed along with this tutorial: [Build a Full Stack Instagram Clone (Vue JS, Tailwind CSS, Javascript, Laravel, Inertia JS, PHP)
+](https://youtu.be/MjkamZQJY_8) by John Weeks. 
 
 Reference code: [Gitbub Rep](https://github.com/John-Weeks-Dev/instagram-clone)
 
 Looking at the Laravel Docs: https://laravel.com/docs/10.x/starter-kits
 
 `composer create-project laravel/laravel fullstack-ig-clone`
-
 `cd fullstack-ig-clone`
-
 `composer require laravel/breeze --dev`
-
 `php artisan breeze:install vue --ssr`
-
 `npm i`
-
 `npm run dev`
 
+Install dependencies: 
+`npm i vue-material-design-icons vue3-carousel`
+
+# 
