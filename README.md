@@ -91,4 +91,5 @@ Install dependencies:
 ![image](https://github.com/rominalodolo/fullstack-ig-clone/assets/83961643/e725bff1-1953-468e-8688-dc5084f97278)
 ![Snip20230519_7](https://github.com/rominalodolo/fullstack-ig-clone/assets/83961643/b15fad55-95ee-41da-9ce9-56d88da0ecfa)
 ![Snip20230519_6](https://github.com/rominalodolo/fullstack-ig-clone/assets/83961643/f980a40a-b9a1-43e5-9ff7-6dba3dce4d06)
+![image](https://github.com/rominalodolo/fullstack-ig-clone/assets/83961643/ea4c4b72-6baa-4170-aebb-c8fc083088e6)
 
